@@ -1,0 +1,65 @@
+_repo: Amenities-of-LiteratureConsisting-of-Sketches-and-Characters-of-English-Literature_36298
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Disraeli, Isaac
+    alias: D'Israeli, I. (Isaac)
+    birthdate: 1766
+    deathdate: 1848
+    gutenberg_agent_id: '6393'
+    url: http://www.gutenberg.org/2009/agents/6393
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_D'Israeli
+  editor:
+    agent_name: Disraeli, Benjamin, Earl of Beaconsfield
+    alias: Disraeli, B. (Benjamin), Earl of Beaconsfield
+    birthdate: 1804
+    deathdate: 1881
+    gutenberg_agent_id: '1292'
+    url: http://www.gutenberg.org/2009/agents/1292
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Disraeli,_1st_Earl_of_Beaconsfield
+description: ''
+gutenberg_issued: '2011-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Intellectual life'
+- !lcsh 'Authors, English -- Biography'
+- !lcc 'PR'
+- !lcsh 'English literature -- History and criticism'
+tableOfContents: The druidical institution -- Britain and the Britons -- The name
+  of England and of the English -- The Anglo-Saxons -- Cædmon and Milton -- Beowulf;
+  the hero-life -- The Anglo-Normans -- The page, the baron, and the minstrel -- Gothic
+  romances -- Origin of the vernacular languages of Europe -- Origin of the English
+  language -- Vicissitudes of the English language -- Dialects -- Mandeville; our
+  first traveller -- Chaucer -- Gower -- Piers Ploughman -- Occleve; the scholar of
+  Chaucer -- Lydgate; the monk of Bury -- The invention of printing -- The first English
+  printer -- Early libraries -- Henry the Seventh -- First sources of modern history
+  -- Arnolde's chronicle -- The first printed chronicle -- Henry the Eighth; his literary
+  character -- Books of the people -- The difficulties experienced by a primitive
+  author -- Skelton -- The ship of fools -- The psychological character of Sir Thomas
+  More -- The Earl of Surrey and Sir Thomas Wyatt -- The spoliation of the monasteries
+  -- A crisis and a reaction; Robert Crowley -- Primitive dramas -- The reformer Bishop
+  Bale; and the Romanist John Heywood, the court jester -- Roger Ascham -- Public
+  opinion -- Orthography and orthoepy -- The ancient metres in modern verse -- Origin
+  of rhyme -- Rhyming dictionaries -- The arte of English poesie -- The discoverie
+  of witchcraft -- The first Jesuits in England -- Hooker -- Sir Philip Sidney --
+  Spenser -- The faery queen -- Allegory -- The first tragedy and the first comedy
+  -- The predecessors and contemporaries of Shakespeare -- Shakespeare -- The "humours"
+  of Jonson -- Drayton -- The psychological history of Rawleigh -- The occult philosopher,
+  Dr. Dee -- The Rosacrusian Fludd -- Bacon -- The first founder of a public library
+  -- Early writers, their dread of the press; the transition to authors by profession
+  -- The age of doctrines -- Pamphlets -- The Oceana of Harrington -- The author of
+  "The grounds and reasons of monarchy" -- Commonwealth -- The true intellectual system
+  of the universe.
+title: 'Amenities of Literature
+
+  Consisting of Sketches and Characters of English Literature'
+url: http://www.gutenberg.org/ebooks/36298
